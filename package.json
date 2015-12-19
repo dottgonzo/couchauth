@@ -1,0 +1,30 @@
+{
+  "name": "couchauth",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dottgonzo/couchauth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dottgonzo/couchauth/issues"
+  },
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "cookie-parser": "^1.4.0",
+    "cors": "^2.7.1",
+    "express": "^4.13.3",
+    "jsonwebtoken": "^5.4.1",
+    "lodash": "^3.10.1",
+    "nodemailer": "^1.10.0",
+    "path-exists": "^2.1.0",
+    "promise": "^7.0.4",
+    "request-promise-json": "^1.0.4"
+  }
+}
