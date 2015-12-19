@@ -19,12 +19,18 @@
     "body-parser": "^1.14.2",
     "cookie-parser": "^1.4.0",
     "cors": "^2.7.1",
+    "couchjsonconf": "0.0.15",
     "express": "^4.13.3",
     "jsonwebtoken": "^5.4.1",
     "lodash": "^3.10.1",
     "nodemailer": "^1.10.0",
     "path-exists": "^2.1.0",
     "promise": "^7.0.4",
-    "request-promise-json": "^1.0.4"
+    "request-promise-json": "^1.0.4",
+    "uid": "0.0.2"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
   }
 }
